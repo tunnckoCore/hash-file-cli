@@ -1,0 +1,41 @@
+{
+  "name": "hash-file-cli",
+  "version": "0.0.0",
+  "description": "Create hash from file. CLI for `hash-file` package.",
+  "repository": "tunnckoCore/hash-file-cli",
+  "author": "Charlike Mike Reagent <@tunnckoCore> (http://www.tunnckocore.tk)",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "standard && node test.js"
+  },
+  "dependencies": {
+    "hasha": "^1.0.1",
+    "meow": "^3.3.0"
+  },
+  "devDependencies": {
+    "assertit": "^0.1.0",
+    "async-exec-cmd": "^2.0.2"
+  },
+  "keywords": [
+    "app",
+    "base",
+    "cli",
+    "cli-app",
+    "crypto",
+    "easy",
+    "file",
+    "fs",
+    "hash",
+    "hasha",
+    "hashing",
+    "hex",
+    "name",
+    "rev",
+    "sha",
+    "simple"
+  ],
+  "bin": {
+    "hash-file": "cli.js"
+  }
+}
