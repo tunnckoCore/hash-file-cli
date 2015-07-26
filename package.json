@@ -1,6 +1,6 @@
 {
   "name": "hash-file-cli",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Create hash from file. CLI for `hash-file` package.",
   "repository": "tunnckoCore/hash-file-cli",
   "author": "Charlike Mike Reagent <@tunnckoCore> (http://www.tunnckocore.tk)",
